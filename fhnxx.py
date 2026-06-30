@@ -1,5 +1,5 @@
 subjects = []
-
+print("กรอกข้อมูลรายวิชา (พิมพ์ exit เพื่อออก)")
 while True:
     data = input("Subject,Grade,Credit : ")
 
